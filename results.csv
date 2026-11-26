@@ -1,0 +1,9 @@
+test_id,voltage,result
+1,12.1,PASS
+2,12.3,PASS
+3,13.2,FAIL
+4,11.8,PASS
+5,12.7,FAIL
+6,12.0,PASS
+7,11.2,FAIL
+8,12.4,PASS
